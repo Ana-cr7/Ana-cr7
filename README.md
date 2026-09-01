@@ -3,7 +3,7 @@
 ### 💻 Front-End Developer | 🚀 Web Development Enthusiast | 🔐 Cybersecurity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0066CC&height=200&section=header&text=Ana%20Abdurezak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Web%20Development%20Enthusiast&descAlignY=65&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1654,100:6C3FB5&height=200&section=header&text=Ana%20Abdurezak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Web%20Development%20Enthusiast&descAlignY=65&descSize=18" width="100%" />
 </p>
 
 <p align="center">
